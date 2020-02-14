@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Submit 
-`git remote add origin https://github.com/SitOnLotus/redux_cms.git`
+
+`git remote add origin https://github.com/SitOnLotus/reactcms.git`
 
 `git push -u origin master`
 
